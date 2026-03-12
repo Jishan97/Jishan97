@@ -66,7 +66,7 @@ AWS • Docker • CI/CD • Production deployment
 ## 📫 Connect
 
 GitHub: https://github.com/Jishan97
-LinkedIn: (add your LinkedIn)
+LinkedIn: https://www.linkedin.com/in/jishan97
 
 ---
 
