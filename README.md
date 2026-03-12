@@ -5,65 +5,70 @@
 
 # 👋 Hey, I'm Jishan
 
-💻 **Full Stack Developer | MERN Stack | AI Integrations**
+**Full Stack Engineer | MERN Stack | AI & Cloud**
 
-Crafting scalable APIs, sleek UIs, and intelligent applications powered by AI.
+I build scalable web applications, intelligent APIs, and modern user interfaces. My work focuses on creating production-ready systems that combine strong backend architecture, responsive frontend experiences, and AI-driven functionality.
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Full Stack Developer specializing in **MERN Stack**
-- 🤖 Recently working with **AI integrations using APIs**
-  - Google **Gemini**
-  - **OpenAI** models
-- ☁️ Experience deploying applications on **AWS**
-- 🔗 Interested in **Web3 & Blockchain development**
-- 🎯 Focused on **clean architecture, performance, and real-world impact**
+* Full Stack Engineer specializing in **MERN stack development**
+* Experienced in integrating **AI models such as OpenAI and Google Gemini** into real-world applications
+* Building and deploying scalable services on **AWS**
+* Strong interest in **Web3 technologies and decentralized applications**
+* Focused on **clean architecture, maintainable code, and high-performance systems**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
+
 React • Next.js • JavaScript • TypeScript • HTML • CSS
 
 ### Backend
-Node.js • Express • REST APIs • MongoDB
+
+Node.js • Express • REST APIs • MongoDB • API architecture
 
 ### AI Integration
-OpenAI API • Gemini API • AI-powered features in web apps
 
-### Web3
-Solidity • Web3.js • Ethereum
+OpenAI API • Google Gemini • AI-powered automation • LLM-driven features
 
-### DevOps / Cloud
-AWS • Docker (basic) • CI/CD • Deployment & Scaling
+### Blockchain
 
----
+Solidity • Web3.js • Ethereum • Smart Contracts
 
-## 🔥 What I Like Building
+### Cloud & DevOps
 
-- Scalable backend APIs
-- AI-powered web applications
-- Full-stack SaaS platforms
-- Blockchain-enabled apps (DApps)
+AWS • Docker • CI/CD • Production deployment
 
 ---
 
-## 📈 Current Focus
+## 🔥 What I Build
 
-- AI features inside full-stack applications
-- LLM integrations (chat, automation, assistants)
-- Scalable cloud deployment with AWS
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Jishan97
-- LinkedIn: (add your linkedin here)
+* Scalable backend services and APIs
+* Full-stack SaaS platforms
+* AI-powered web applications
+* Web3 / blockchain based applications
+* Cloud-deployed production systems
 
 ---
 
-⭐ *Clean code. Fast delivery. Big impact.*
+## 🎯 Engineering Principles
+
+* Write **clean, maintainable code**
+* Build **scalable systems**
+* Deliver **efficient and reliable products**
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/Jishan97
+LinkedIn: (add your LinkedIn)
+
+---
+
+⭐ **Clean code. Scalable systems. Real-world impact.**
+
